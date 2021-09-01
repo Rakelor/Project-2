@@ -28,6 +28,6 @@ To-do list
 * Create notifications, SLA's and Schedules for the company manually.
 
 ##Usage
->After being setup, the ServiceNow platform can now be used by the employees of the company, and they would only be able to access and modify the company data in their domain.
+>After being setup, the ServiceNow platform can now be used by the employees of the company, and they would only be able to access and modify the company data in their domain, as shown as below, with the user Brice Matsushita's view being shown as well as the domains he has access to.
 ![image](https://user-images.githubusercontent.com/80430334/131720414-cd6995fa-d093-40e7-be61-0e6ad0bed8ec.png)
 
