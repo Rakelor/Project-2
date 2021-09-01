@@ -10,7 +10,9 @@ The Project was done in a group, we created an FRS document to document the proc
 
 ##Features
 List of the features ready and TODOs for future Development
+
 *Customer onboarded, including users, locations, companies, Departments, with separated domains.
+
 *Custom notifications for each customer.
 ![image](https://user-images.githubusercontent.com/80430334/131715372-add23812-6e49-4b57-95d7-eab90dc633a1.png)
 ![image](https://user-images.githubusercontent.com/80430334/131718796-6c3223a8-2864-4bcd-a122-b7a555f89bfd.png)
